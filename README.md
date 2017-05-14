@@ -3,4 +3,4 @@ A widget for ubersicht that displays a quote of the day.
 
 Thank you to www.goodreads.com for the feed.
 
-![](https://raw.githubusercontent.com/danieldbird/assets/master/ubersicht-word-of-the-day.png)
+![](https://raw.githubusercontent.com/danieldbird/assets/master/ubersicht-quote-of-the-day.png)
